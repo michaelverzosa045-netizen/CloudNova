@@ -1,0 +1,10 @@
+# Environment secrets
+.env
+mysql-client.cnf
+
+# Database backups and logs
+backups/
+backup.log
+
+# Temporary files
+*.tmp
